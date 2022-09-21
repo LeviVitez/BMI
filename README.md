@@ -1,4 +1,4 @@
-# [Név]
+# [Bóta László Levente]
 
 ## Hogyan kezdj neki?
 
